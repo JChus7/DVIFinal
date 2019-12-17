@@ -1,0 +1,1197 @@
+﻿Log file open, 12/17/19 10:24:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: PracticaFinal
+LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.255945
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin Firebase
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.22-CL-7053642
+LogInit: Engine Version: 4.22.3-7053642+++UE4+Release-4.22
+LogInit: Compatible Engine Version: 4.22.0-5660361+++UE4+Release-4.22
+LogInit: Net CL: 5660361
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700K CPU @ 4.20GHz, GPU: NVIDIA GeForce GTX 1080 Ti
+LogInit: Compiled (64-bit): Jun 18 2019 03:09:11
+LogInit: Compiled with Visual C++: 19.16.27025.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.22
+LogInit: Command Line:  -EpicPortal -epicusername=JChus7 -epicuserid=a50ddc889ef3471680bcbe174a513aed -epiclocale=es-ES
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.22/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 30
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 28
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 25
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 2
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Engine.ini]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Engine.ini]
+[2019.12.17-09.24.47:554][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Engine.ini]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Engine.ini]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.17-09.24.47:554][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Engine.ini]
+[2019.12.17-09.24.47:554][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Engine.ini]
+[2019.12.17-09.24.47:556][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.17-09.24.47:556][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.17-09.24.47:557][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.17-09.24.47:557][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.17-09.24.47:557][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.17-09.24.47:571][  0]LogHAL: Display: Platform has ~ 16 GB [17140359168 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Vulkan.UseRealUBs:0		; Required until we fix HLR fall-out]]
+[2019.12.17-09.24.47:571][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.17-09.24.47:571][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.17-09.24.47:571][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.17-09.24.47:572][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.17-09.24.47:572][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.17-09.24.47:572][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.17-09.24.47:572][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.17-09.24.47:572][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.17-09.24.47:572][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Scalability.ini]
+[2019.12.17-09.24.47:572][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.17-09.24.47:572][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.17-09.24.47:572][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.17-09.24.47:572][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.17-09.24.47:572][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.17-09.24.47:572][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/git/DVI/DVIFinal/PracticaFinal/Saved/Config/Windows/Engine.ini]
+[2019.12.17-09.24.47:572][  0]LogInit: Computer: DESKTOP-U1042FA
+[2019.12.17-09.24.47:572][  0]LogInit: User: 77chu
+[2019.12.17-09.24.47:572][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.17-09.24.47:572][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.17-09.24.47:572][  0]LogMemory: Memory total: Physical=16.0GB (16GB approx)
+[2019.12.17-09.24.47:572][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.17-09.24.47:572][  0]LogMemory: Process Physical Memory: 96.98 MB used, 96.98 MB peak
+[2019.12.17-09.24.47:572][  0]LogMemory: Process Virtual Memory: 88.97 MB used, 88.97 MB peak
+[2019.12.17-09.24.47:572][  0]LogMemory: Physical Memory: 4795.71 MB used,  11550.61 MB free, 16346.32 MB total
+[2019.12.17-09.24.47:572][  0]LogMemory: Virtual Memory: 4656.46 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.17-09.24.47:582][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.12.17-09.24.47:582][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2019.12.17-09.24.47:692][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.17-09.24.47:712][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.17-09.24.47:712][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.17-09.24.47:829][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.17-09.24.47:829][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.17-09.24.47:878][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080 Ti' (Feature Level 11_0)
+[2019.12.17-09.24.47:878][  0]LogD3D11RHI:       11127/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2019.12.17-09.24.47:880][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.17-09.24.47:880][  0]LogD3D11RHI:       0/0/8173 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.17-09.24.47:880][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.17-09.24.47:884][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.17-09.24.47:884][  0]LogD3D11RHI:     GPU DeviceId: 0x1b06 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.17-09.24.47:884][  0]LogWindows: EnumDisplayDevices:
+[2019.12.17-09.24.47:884][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080 Ti' (P:1 D:1)
+[2019.12.17-09.24.47:884][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.12.17-09.24.47:885][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.12.17-09.24.47:885][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080 Ti' (P:0 D:0)
+[2019.12.17-09.24.47:885][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.17-09.24.47:885][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080 Ti
+[2019.12.17-09.24.47:885][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2019.12.17-09.24.47:885][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2019.12.17-09.24.47:885][  0]LogRHI: Texture pool is 7788 MB (70% of 11127 MB)
+[2019.12.17-09.24.47:918][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.17-09.24.47:921][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.17-09.24.47:921][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.17-09.24.47:921][  0]LogRendererCore: FGlobalReadBuffer::InitRHI
+[2019.12.17-09.24.47:929][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.17-09.24.48:130][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.17-09.24.48:140][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.17-09.24.48:150][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.17-09.24.48:160][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.17-09.24.48:170][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.17-09.24.48:179][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.17-09.24.48:189][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.17-09.24.48:199][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.17-09.24.48:204][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.17-09.24.48:263][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.17-09.24.48:264][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.17-09.24.48:308][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.17-09.24.48:308][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.17-09.24.48:325][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.17-09.24.48:325][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.17-09.24.48:334][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.17-09.24.48:343][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.17-09.24.48:351][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.17-09.24.48:360][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.17-09.24.48:394][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.17-09.24.48:394][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.17-09.24.48:394][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.17-09.24.48:400][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.17-09.24.48:432][  0]LogShaderCompilers: Guid format shader working directory is -2 characters bigger than the processId version (../../../../../../git/DVI/DVIFinal/PracticaFinal/Intermediate/Shaders/WorkingDirectory/8312/).
+[2019.12.17-09.24.48:432][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/77chu/AppData/Local/Temp/UnrealShaderWorkingDir/19FCB7F646672AD7B835E9BB30A379B0/'.
+[2019.12.17-09.24.48:434][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.17-09.24.48:434][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.17-09.24.48:434][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.17-09.24.48:835][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.17-09.24.48:868][  0]LogDerivedDataCache: Loaded boot cache 0.03s 71MB C:/Users/77chu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.17-09.24.48:868][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/77chu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc
+[2019.12.17-09.24.48:868][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../git/DVI/DVIFinal/PracticaFinal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.17-09.24.48:868][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.17-09.24.48:868][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../git/DVI/DVIFinal/PracticaFinal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.17-09.24.48:868][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.17-09.24.48:877][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.17-09.24.48:877][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.17-09.24.48:877][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.17-09.24.48:889][  0]LogDerivedDataCache: Using Local data cache path C:/Users/77chu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.17-09.24.48:889][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.17-09.24.48:889][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.17-09.24.48:905][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.17-09.24.48:906][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.17-09.24.48:906][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.17-09.24.48:970][  0]LogAssetRegistry: FAssetRegistry took 0.0301 seconds to start up
+[2019.12.17-09.24.49:213][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.17-09.24.49:314][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.17-09.24.49:314][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.17-09.24.49:314][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.17-09.24.49:314][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.17-09.24.49:314][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.17-09.24.49:322][  0]LogNetVersion: PracticaFinal 1.0.0, NetCL: 5660361, EngineNetVer: 10, GameNetVer: 0 (Checksum: 899781545)
+[2019.12.17-09.24.49:622][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.032325 seconds
+[2019.12.17-09.24.49:626][  0]LogUObjectArray: 42205 objects as part of root set at end of initial load.
+[2019.12.17-09.24.49:626][  0]LogUObjectAllocator: 7325032 out of 0 bytes used by permanent object pool.
+[2019.12.17-09.24.49:626][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.17-09.24.50:188][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.17-09.24.50:200][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.17-09.24.50:288][  0]SourceControl: Source control is disabled
+[2019.12.17-09.24.50:288][  0]SourceControl: Source control is disabled
+[2019.12.17-09.24.50:289][  0]SourceControl: Source control is disabled
+[2019.12.17-09.24.50:290][  0]SourceControl: Source control is disabled
+[2019.12.17-09.24.50:334][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.17-09.24.50:389][  0]LogOcInput: OculusInput pre-init called
+[2019.12.17-09.24.50:875][  0]LogEngine: Initializing Engine...
+[2019.12.17-09.24.50:876][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.17-09.24.50:876][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.17-09.24.51:020][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.17-09.24.51:029][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.17-09.24.51:079][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.17-09.24.51:117][  0]LogInit: FAudioDevice initialized.
+[2019.12.17-09.24.51:117][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.17-09.24.51:163][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/77chu/AppData/Local/UnrealEngine/4.22/DerivedDataCache/Boot.ddc.
+[2019.12.17-09.24.51:165][  0]LogInit: Texture streaming: Enabled
+[2019.12.17-09.24.51:182][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.17-09.24.51:197][  0]LogInit: Transaction tracking system initialized
+[2019.12.17-09.24.51:213][  0]BlueprintLog: New page: Editor Load
+[2019.12.17-09.24.51:269][  0]LocalizationService: Localization service is disabled
+[2019.12.17-09.24.51:344][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2019.12.17-09.24.51:344][  0]LogLinker: Warning: Can't find file '/Game/TopDownBP/TopDownOverview'
+[2019.12.17-09.24.51:344][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/TopDownBP/TopDownOverview.TopDownOverview_C'
+[2019.12.17-09.24.51:481][  0]LogFileCache: Scanning file cache for directory 'C:/git/DVI/DVIFinal/PracticaFinal/Content/' took 0.02s
+[2019.12.17-09.24.51:481][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.17-09.24.51:481][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.17-09.24.51:593][  0]SourceControl: Source control is disabled
+[2019.12.17-09.24.51:593][  0]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.24.51:594][  0]LightingResults: New page: Lighting Build
+[2019.12.17-09.24.51:595][  0]MapCheck: New page: Map Check
+[2019.12.17-09.24.51:595][  0]LightingResults: New page: Lighting Build
+[2019.12.17-09.24.51:614][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2019.12.17-09.24.52:084][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.17-09.24.52:115][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.24.52:136][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2019.12.17-09.24.52:136][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.24.52:136][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.099ms to complete.
+[2019.12.17-09.24.52:136][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.542
+[2019.12.17-09.24.52:234][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-09.24.52:241][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-09.24.52:246][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-09.24.52:251][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-09.24.52:263][  0]LogCollectionManager: Loaded 0 collections in 0.001077 seconds
+[2019.12.17-09.24.52:317][  0]LogFileCache: Scanning file cache for directory 'C:/git/DVI/DVIFinal/PracticaFinal/Saved/Collections/' took 0.01s
+[2019.12.17-09.24.52:317][  0]LogFileCache: Scanning file cache for directory 'C:/git/DVI/DVIFinal/PracticaFinal/Content/Developers/77chu/Collections/' took 0.01s
+[2019.12.17-09.24.52:317][  0]LogFileCache: Scanning file cache for directory 'C:/git/DVI/DVIFinal/PracticaFinal/Content/Collections/' took 0.01s
+[2019.12.17-09.24.52:317][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.12.17-09.24.52:326][  0]LogContentBrowser: Native class hierarchy populated in 0.0071 seconds. Added 2732 classes and 659 folders.
+[2019.12.17-09.24.52:337][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.17-09.24.52:347][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:354][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:371][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:377][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:382][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:387][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:392][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:397][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:402][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:409][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:413][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:418][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:423][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:428][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:433][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:437][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:462][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:468][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:472][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:477][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:482][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:487][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:494][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:499][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:504][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:509][  0]LogPakFile: Registered encryption key '00000000000000000000000000000000': 0 pak files mounted, 0 remain pending
+[2019.12.17-09.24.52:646][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.17-09.24.52:660][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.17-09.24.52:715][  0]LogSlate: Took 0.000102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.17-09.24.52:717][  0]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.17-09.24.52:725][  0]LogSlate: Took 0.005461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.17-09.24.52:827][  0]LogRenderer: Reallocating scene render targets to support 1356x640 Format 10 NumSamples 1 (Frame:1).
+[2019.12.17-09.24.52:936][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.17-09.24.52:936][  0]LogLoad: (Engine Initialization) Total time: 6.73 seconds
+[2019.12.17-09.24.52:936][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.17-09.24.52:974][  0]LogAssetRegistry: Asset discovery search completed in 4.0266 seconds
+[2019.12.17-09.24.52:975][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.12.17-09.24.52:975][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000027 seconds (updated 0 objects)
+[2019.12.17-09.24.52:979][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.17-09.24.53:003][  0]LogSlate: Took 0.005640 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.17-09.25.41:592][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-09.25.41:650][245]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.17-09.25.41:661][245]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.17-09.25.41:661][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-09.25.41:663][245]PIE: New page: PIE session: ThirdPersonExampleMap (Dec 17, 2019, 11:25:41 AM)
+[2019.12.17-09.25.41:675][245]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2019.12.17-09.25.41:685][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009638s)
+[2019.12.17-09.25.41:685][245]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.17-09.25.41:685][245]LogPlayLevel: PIE: World Init took: (0.000483s)
+[2019.12.17-09.25.41:686][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010325s)
+[2019.12.17-09.25.41:705][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2019.12.17-09.25.41:716][245]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.17-09.25.41:746][245]LogInit: FAudioDevice initialized.
+[2019.12.17-09.25.41:795][245]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.17-09.25.41:797][245]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2019.12.17-10.25.41
+[2019.12.17-09.25.41:797][245]LogWorld: Bringing up level for play took: 0.001002
+[2019.12.17-09.25.41:819][245]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2019.12.17-09.25.41:824][245]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.77
+[2019.12.17-09.25.41:824][245]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.17-09.25.44:071][511]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.17-09.25.44:072][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-09.25.44:100][511]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-09.25.44:100][511]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2019.12.17-09.25.44:121][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-09.25.44:123][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2019.12.17-09.25.44:178][516]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2019.12.17-09.25.48:872][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-09.25.50:040][217]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.17-09.25.50:066][217]LogAIModule: Creating AISystem for world MenuInicio
+[2019.12.17-09.25.50:069][217]LogAssetEditorManager: Opening Asset editor for World /Game/Niveles/MenuInicio.MenuInicio
+[2019.12.17-09.25.50:088][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2019.12.17-09.25.50:089][217]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/MenuInicio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.25.50:089][217]LightingResults: New page: Lighting Build
+[2019.12.17-09.25.50:089][217]LoadErrors: New page: Loading map: MenuInicio.umap
+[2019.12.17-09.25.50:089][217]MapCheck: New page: Map Check
+[2019.12.17-09.25.50:090][217]LightingResults: New page: Lighting Build
+[2019.12.17-09.25.50:109][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.12.17-09.25.50:114][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.25.50:131][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.12.17-09.25.50:150][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.25.50:151][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2019.12.17-09.25.50:151][217]LogFileHelpers: Loading map 'MenuInicio' took 0.063
+[2019.12.17-09.25.51:917][426]LogTemp: Repeating last play command: Selected Viewport
+[2019.12.17-09.25.51:928][426]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Niveles/MenuInicio.MenuInicio:PersistentLevel' has LevelScriptBlueprint '/Game/Niveles/MenuInicio.MenuInicio:PersistentLevel.MenuInicio' with GeneratedClass '/Game/Niveles/MenuInicio.MenuInicio_C' with ClassGeneratedBy '/Game/Niveles/MenuInicio.MenuInicio:PersistentLevel.MenuInicio'
+[2019.12.17-09.25.51:928][426]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.17-09.25.51:928][426]PIE: New page: PIE session: MenuInicio (Dec 17, 2019, 11:25:51 AM)
+[2019.12.17-09.25.51:928][426]LogPlayLevel: Creating play world package: /Game/Niveles/UEDPIE_0_MenuInicio
+[2019.12.17-09.25.51:929][426]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000712s)
+[2019.12.17-09.25.51:929][426]LogAIModule: Creating AISystem for world MenuInicio
+[2019.12.17-09.25.51:929][426]LogPlayLevel: PIE: World Init took: (0.000432s)
+[2019.12.17-09.25.51:929][426]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Niveles/MenuInicio.MenuInicio to /Game/Niveles/UEDPIE_0_MenuInicio.MenuInicio (0.001297s)
+[2019.12.17-09.25.51:947][426]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2019.12.17-09.25.51:956][426]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2019.12.17-09.25.51:986][426]LogInit: FAudioDevice initialized.
+[2019.12.17-09.25.52:013][426]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.17-09.25.52:014][426]LogWorld: Bringing World /Game/Niveles/UEDPIE_0_MenuInicio.MenuInicio up for play (max tick rate 0) at 2019.12.17-10.25.52
+[2019.12.17-09.25.52:014][426]LogWorld: Bringing up level for play took: 0.000212
+[2019.12.17-09.25.52:028][426]PIE: Play in editor start time for /Game/Niveles/UEDPIE_0_MenuInicio 0.974
+[2019.12.17-09.25.52:028][426]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Niveles/MenuInicio.MenuInicio:PersistentLevel' has LevelScriptBlueprint '/Game/Niveles/MenuInicio.MenuInicio:PersistentLevel.MenuInicio' with GeneratedClass '/Game/Niveles/MenuInicio.MenuInicio_C' with ClassGeneratedBy '/Game/Niveles/MenuInicio.MenuInicio:PersistentLevel.MenuInicio'
+[2019.12.17-09.25.57:529][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-09.25.57:529][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Niveles/MenuInicio.MenuInicio:PersistentLevel' has LevelScriptBlueprint '/Game/Niveles/MenuInicio.MenuInicio:PersistentLevel.MenuInicio' with GeneratedClass '/Game/Niveles/MenuInicio.MenuInicio_C' with ClassGeneratedBy '/Game/Niveles/MenuInicio.MenuInicio:PersistentLevel.MenuInicio'
+[2019.12.17-09.25.57:555][ 86]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.17-09.25.57:555][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Niveles/MenuInicio.MenuInicio:PersistentLevel' has LevelScriptBlueprint '/Game/Niveles/MenuInicio.MenuInicio:PersistentLevel.MenuInicio' with GeneratedClass '/Game/Niveles/MenuInicio.MenuInicio_C' with ClassGeneratedBy '/Game/Niveles/MenuInicio.MenuInicio:PersistentLevel.MenuInicio'
+[2019.12.17-09.25.57:576][ 86]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.17-09.25.57:577][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.17-09.25.57:637][ 93]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2019.12.17-09.27.33:521][800]LogAIModule: Creating AISystem for world Nivel1
+[2019.12.17-09.27.33:522][800]LogAssetEditorManager: Opening Asset editor for World /Game/Niveles/Nivel1.Nivel1
+[2019.12.17-09.27.33:538][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2019.12.17-09.27.33:539][800]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/Nivel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.27.33:539][800]LightingResults: New page: Lighting Build
+[2019.12.17-09.27.33:539][800]LoadErrors: New page: Loading map: Nivel1.umap
+[2019.12.17-09.27.33:540][800]MapCheck: New page: Map Check
+[2019.12.17-09.27.33:540][800]LightingResults: New page: Lighting Build
+[2019.12.17-09.27.33:557][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.12.17-09.27.33:558][800]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.27.33:576][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.12.17-09.27.33:596][800]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.27.33:596][800]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2019.12.17-09.27.33:596][800]LogFileHelpers: Loading map 'Nivel1' took 0.057
+[2019.12.17-09.27.39:594][514]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-09.28.00:018][962]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.17-09.28.00:029][962]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.12.17-09.28.00:045][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2019.12.17-09.28.00:046][962]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.28.00:046][962]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.00:046][962]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.12.17-09.28.00:047][962]MapCheck: New page: Map Check
+[2019.12.17-09.28.00:047][962]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.00:067][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.12.17-09.28.00:069][962]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.28.00:088][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2019.12.17-09.28.00:108][962]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.28.00:108][962]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2019.12.17-09.28.00:108][962]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.063
+[2019.12.17-09.28.07:021][777]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-09.28.13:140][501]Cmd: EDIT COPY
+[2019.12.17-09.28.19:576][272]LogAIModule: Creating AISystem for world Nivel1
+[2019.12.17-09.28.19:577][272]LogAssetEditorManager: Opening Asset editor for World /Game/Niveles/Nivel1.Nivel1
+[2019.12.17-09.28.19:594][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.12.17-09.28.19:595][272]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/Nivel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.28.19:595][272]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.19:595][272]LoadErrors: New page: Loading map: Nivel1.umap
+[2019.12.17-09.28.19:596][272]MapCheck: New page: Map Check
+[2019.12.17-09.28.19:596][272]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.19:615][272]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.12.17-09.28.19:616][272]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.28.19:635][272]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.12.17-09.28.19:654][272]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.28.19:655][272]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2019.12.17-09.28.19:655][272]LogFileHelpers: Loading map 'Nivel1' took 0.060
+[2019.12.17-09.28.21:364][474]Cmd: EDIT PASTE
+[2019.12.17-09.28.25:439][962]LogAIModule: Creating AISystem for world MenuInicio
+[2019.12.17-09.28.25:440][962]LogAssetEditorManager: Opening Asset editor for World /Game/Niveles/MenuInicio.MenuInicio
+[2019.12.17-09.28.25:458][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2019.12.17-09.28.25:458][962]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/MenuInicio.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.28.25:458][962]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.25:459][962]LoadErrors: New page: Loading map: MenuInicio.umap
+[2019.12.17-09.28.25:459][962]MapCheck: New page: Map Check
+[2019.12.17-09.28.25:459][962]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.25:478][962]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2019.12.17-09.28.25:479][962]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.28.25:497][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2019.12.17-09.28.25:516][962]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.28.25:516][962]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2019.12.17-09.28.25:516][962]LogFileHelpers: Loading map 'MenuInicio' took 0.058
+[2019.12.17-09.28.26:487][ 75]LogAIModule: Creating AISystem for world Nivel1
+[2019.12.17-09.28.26:488][ 75]LogAssetEditorManager: Opening Asset editor for World /Game/Niveles/Nivel1.Nivel1
+[2019.12.17-09.28.26:505][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.12.17-09.28.26:505][ 75]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/Nivel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.28.26:505][ 75]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.26:506][ 75]LoadErrors: New page: Loading map: Nivel1.umap
+[2019.12.17-09.28.26:506][ 75]MapCheck: New page: Map Check
+[2019.12.17-09.28.26:506][ 75]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.26:525][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2019.12.17-09.28.26:526][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.28.26:544][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.12.17-09.28.26:563][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.28.26:563][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.073ms to complete.
+[2019.12.17-09.28.26:563][ 75]LogFileHelpers: Loading map 'Nivel1' took 0.058
+[2019.12.17-09.28.27:411][173]LogAIModule: Creating AISystem for world Nivel2
+[2019.12.17-09.28.27:413][173]LogAssetEditorManager: Opening Asset editor for World /Game/Niveles/Nivel2.Nivel2
+[2019.12.17-09.28.27:431][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2019.12.17-09.28.27:431][173]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/Nivel2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.28.27:431][173]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.27:432][173]LoadErrors: New page: Loading map: Nivel2.umap
+[2019.12.17-09.28.27:432][173]MapCheck: New page: Map Check
+[2019.12.17-09.28.27:432][173]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.27:450][173]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2019.12.17-09.28.27:450][173]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.28.27:468][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.12.17-09.28.27:487][173]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.28.27:487][173]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2019.12.17-09.28.27:487][173]LogFileHelpers: Loading map 'Nivel2' took 0.056
+[2019.12.17-09.28.28:086][241]LogAIModule: Creating AISystem for world Nivel3
+[2019.12.17-09.28.28:087][241]LogAssetEditorManager: Opening Asset editor for World /Game/Niveles/Nivel3.Nivel3
+[2019.12.17-09.28.28:104][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.12.17-09.28.28:105][241]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/Nivel3.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.28.28:105][241]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.28:105][241]LoadErrors: New page: Loading map: Nivel3.umap
+[2019.12.17-09.28.28:105][241]MapCheck: New page: Map Check
+[2019.12.17-09.28.28:105][241]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.28:125][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.12.17-09.28.28:126][241]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.28.28:143][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.12.17-09.28.28:163][241]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.28.28:163][241]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2019.12.17-09.28.28:163][241]LogFileHelpers: Loading map 'Nivel3' took 0.059
+[2019.12.17-09.28.28:992][337]LogAIModule: Creating AISystem for world Nivel1
+[2019.12.17-09.28.28:994][337]LogAssetEditorManager: Opening Asset editor for World /Game/Niveles/Nivel1.Nivel1
+[2019.12.17-09.28.29:011][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2019.12.17-09.28.29:012][337]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/Nivel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.28.29:012][337]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.29:012][337]LoadErrors: New page: Loading map: Nivel1.umap
+[2019.12.17-09.28.29:013][337]MapCheck: New page: Map Check
+[2019.12.17-09.28.29:013][337]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.29:031][337]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.12.17-09.28.29:032][337]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.28.29:050][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2019.12.17-09.28.29:069][337]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.28.29:069][337]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2019.12.17-09.28.29:069][337]LogFileHelpers: Loading map 'Nivel1' took 0.058
+[2019.12.17-09.28.33:299][839]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.17-09.28.33:311][839]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.12.17-09.28.33:329][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.12.17-09.28.33:330][839]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.28.33:330][839]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.33:330][839]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.12.17-09.28.33:331][839]MapCheck: New page: Map Check
+[2019.12.17-09.28.33:331][839]LightingResults: New page: Lighting Build
+[2019.12.17-09.28.33:349][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2019.12.17-09.28.33:351][839]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.28.33:370][839]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.12.17-09.28.33:389][839]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.28.33:389][839]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.077ms to complete.
+[2019.12.17-09.28.33:389][839]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.060
+[2019.12.17-09.28.49:887][808]Cmd: DELETE
+[2019.12.17-09.28.49:887][808]Cmd: ACTOR DELETE
+[2019.12.17-09.28.49:892][808]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2019.12.17-09.28.49:911][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2019.12.17-09.28.49:912][808]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2019.12.17-09.28.50:843][920]Cmd: TRANSACTION UNDO
+[2019.12.17-09.28.50:843][920]LogEditorTransaction: Undo Delete Actors
+[2019.12.17-09.28.57:134][673]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-09.28.59:951][ 10]Cmd: EDIT COPY
+[2019.12.17-09.29.04:693][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2019.12.17-09.29.04:794][575]LogSavePackage: Moving '../../../../../../git/DVI/DVIFinal/PracticaFinal/Saved/ThirdPersonExampleMap64D212C34FCF450F69CF71A54BD798A7.tmp' to '../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.12.17-09.29.04:819][575]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.149
+[2019.12.17-09.29.06:852][818]LogAIModule: Creating AISystem for world Nivel1
+[2019.12.17-09.29.06:853][818]LogAssetEditorManager: Opening Asset editor for World /Game/Niveles/Nivel1.Nivel1
+[2019.12.17-09.29.06:871][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2019.12.17-09.29.06:872][818]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/Nivel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.29.06:872][818]LightingResults: New page: Lighting Build
+[2019.12.17-09.29.06:872][818]LoadErrors: New page: Loading map: Nivel1.umap
+[2019.12.17-09.29.06:873][818]MapCheck: New page: Map Check
+[2019.12.17-09.29.06:873][818]LightingResults: New page: Lighting Build
+[2019.12.17-09.29.06:893][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2019.12.17-09.29.06:931][818]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.29.06:949][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2019.12.17-09.29.06:970][818]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.29.06:970][818]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.076ms to complete.
+[2019.12.17-09.29.06:970][818]LogFileHelpers: Loading map 'Nivel1' took 0.099
+[2019.12.17-09.29.08:177][959]Cmd: EDIT PASTE
+[2019.12.17-09.29.13:842][635]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-09.29.18:056][140]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-09.29.19:623][328]Cmd: DELETE
+[2019.12.17-09.29.19:623][328]Cmd: ACTOR DELETE
+[2019.12.17-09.29.19:624][328]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.12.17-09.29.19:624][328]LogEditorActor: Deleted Actor: LightmassImportanceVolume
+[2019.12.17-09.29.19:624][328]LogEditorActor: Deleted Actor: PostProcessVolume
+[2019.12.17-09.29.19:624][328]LogEditorActor: Deleted Actor: SkyLight
+[2019.12.17-09.29.19:642][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.12.17-09.29.19:642][328]LogEditorActor: Deleted 4 Actors (0.019 secs)
+[2019.12.17-09.29.48:655][799]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-09.30.05:228][774]Cmd: DELETE
+[2019.12.17-09.30.05:228][774]Cmd: ACTOR DELETE
+[2019.12.17-09.30.05:228][774]LogEditorActor: Deleted Actor: SkyLight
+[2019.12.17-09.30.05:248][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2019.12.17-09.30.05:248][774]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2019.12.17-09.30.06:683][946]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.12.17-09.30.12:460][626]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-09.30.15:592][  1]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niveles/Nivel1" FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/Nivel1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.17-09.30.15:612][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2019.12.17-09.30.15:677][  1]LogSavePackage: Moving '../../../../../../git/DVI/DVIFinal/PracticaFinal/Saved/Nivel17087313C4C22170D681A49AFFB59109E.tmp' to '../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/Nivel1.umap'
+[2019.12.17-09.30.15:701][  1]LogFileHelpers: Saving map 'Nivel1' took 0.109
+[2019.12.17-09.30.18:915][384]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.17-09.30.18:958][384]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2019.12.17-09.30.18:979][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2019.12.17-09.30.18:979][384]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.30.18:979][384]LightingResults: New page: Lighting Build
+[2019.12.17-09.30.18:980][384]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2019.12.17-09.30.18:980][384]MapCheck: New page: Map Check
+[2019.12.17-09.30.18:980][384]LightingResults: New page: Lighting Build
+[2019.12.17-09.30.18:997][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.12.17-09.30.19:051][384]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.30.19:071][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.12.17-09.30.19:090][384]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.30.19:091][384]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.082ms to complete.
+[2019.12.17-09.30.19:091][384]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.112
+[2019.12.17-09.30.33:274][ 77]Cmd: EDIT COPY
+[2019.12.17-09.30.40:059][890]LogAIModule: Creating AISystem for world Nivel1
+[2019.12.17-09.30.40:061][890]LogAssetEditorManager: Opening Asset editor for World /Game/Niveles/Nivel1.Nivel1
+[2019.12.17-09.30.40:078][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2019.12.17-09.30.40:079][890]Cmd: MAP LOAD FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/Nivel1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.17-09.30.40:079][890]LightingResults: New page: Lighting Build
+[2019.12.17-09.30.40:079][890]LoadErrors: New page: Loading map: Nivel1.umap
+[2019.12.17-09.30.40:080][890]MapCheck: New page: Map Check
+[2019.12.17-09.30.40:080][890]LightingResults: New page: Lighting Build
+[2019.12.17-09.30.40:101][890]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.12.17-09.30.40:134][890]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.17-09.30.40:151][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2019.12.17-09.30.40:170][890]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.17-09.30.40:170][890]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.074ms to complete.
+[2019.12.17-09.30.40:170][890]LogFileHelpers: Loading map 'Nivel1' took 0.093
+[2019.12.17-09.30.41:605][ 58]Cmd: EDIT PASTE
+[2019.12.17-09.30.41:607][ 58]LogProperty: Warning: ObjectProperty /Engine/EngineSky/BP_Sky_Sphere.BP_Sky_Sphere_C:Directional light actor: unresolved reference to 'DirectionalLight'"LightSource_0"''
+[2019.12.17-09.30.49:136][959]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-09.30.54:289][577]Cmd: DELETE
+[2019.12.17-09.30.54:289][577]Cmd: ACTOR DELETE
+[2019.12.17-09.30.54:289][577]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.12.17-09.30.54:308][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2019.12.17-09.30.54:308][577]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2019.12.17-09.33.20:281][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.17-09.33.49:837][391]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.12.17-09.33.50:703][391]LogTexture: Display: Building textures: T_Blank_N (BC5, 8X8)
+[2019.12.17-09.33.50:703][391]LogTexture: Display: Building textures: ThumbnailTexture (DXT1, 512X512)
+[2019.12.17-09.33.50:703][391]LogTexture: Display: Building textures: T_CandleFlame (AutoDXT, 512X512)
+[2019.12.17-09.33.50:703][391]LogTexture: Display: Building textures: T_Candles_A (AutoDXT, 2048X2048)
+[2019.12.17-09.33.50:703][391]LogTexture: Display: Building textures: T_Candle_Holder_A (AutoDXT, 2048X2048)
+[2019.12.17-09.33.50:703][391]LogTexture: Display: Building textures: T_Candle_Holder_C (AutoDXT, 2048X2048)
+[2019.12.17-09.33.50:703][391]LogTexture: Display: Building textures: T_Candle_Holder_N (BC5, 2048X2048)
+[2019.12.17-09.33.50:703][391]LogStaticMesh: Building static mesh SM_Candle_Used_B...
+[2019.12.17-09.33.50:755][391]LogTexture: Display: Building textures: T_CandleHolder_Iron_C (AutoDXT, 4096X4096)
+[2019.12.17-09.33.50:755][391]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Props/SM_Candle_Used_B.SM_Candle_Used_B
+[2019.12.17-09.33.50:828][391]LogTexture: Display: Building textures: T_CandleHolder_Iron_A (AutoDXT, 4096X4096)
+[2019.12.17-09.33.50:828][391]LogStaticMesh: Building static mesh SM_Candle_Used_A...
+[2019.12.17-09.33.50:882][391]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Props/SM_Candle_Used_A.SM_Candle_Used_A
+[2019.12.17-09.33.51:627][391]LogTexture: Display: Building textures: T_CandleHolder_Bronze_N (BC5, 4096X4096)
+[2019.12.17-09.33.51:627][391]LogStaticMesh: Building static mesh SM_Pot_A_Body...
+[2019.12.17-09.33.51:704][391]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_A_Body.SM_Pot_A_Body
+[2019.12.17-09.33.51:718][391]LogStaticMesh: Building static mesh SM_Pot_A_Complete...
+[2019.12.17-09.33.51:826][391]LogTexture: Display: Building textures: T_CandleHolder_Bronze_C (AutoDXT, 4096X4096)
+[2019.12.17-09.33.51:826][391]LogStaticMesh: Built static mesh [0.11s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_A_Complete.SM_Pot_A_Complete
+[2019.12.17-09.33.51:983][391]LogStaticMesh: Building static mesh SM_Pot_B_Body...
+[2019.12.17-09.33.52:055][391]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Body.SM_Pot_B_Body
+[2019.12.17-09.33.52:070][391]LogStaticMesh: Building static mesh SM_Pot_B_Complete...
+[2019.12.17-09.33.52:231][391]LogStaticMesh: Built static mesh [0.16s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete
+[2019.12.17-09.33.52:310][391]LogStaticMesh: Building static mesh SM_Pot_C_Body...
+[2019.12.17-09.33.52:360][391]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Body.SM_Pot_C_Body
+[2019.12.17-09.33.52:374][391]LogStaticMesh: Building static mesh SM_Pot_C_Complete...
+[2019.12.17-09.33.52:473][391]LogStaticMesh: Built static mesh [0.10s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Complete.SM_Pot_C_Complete
+[2019.12.17-09.33.52:504][391]LogStaticMesh: Building static mesh SM_Pot_C_Lid...
+[2019.12.17-09.33.52:531][391]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Lid.SM_Pot_C_Lid
+[2019.12.17-09.33.52:578][391]LogStaticMesh: Building static mesh SM_Ball_And_Chain...
+[2019.12.17-09.33.52:811][391]LogStaticMesh: Built static mesh [0.23s] /Game/MedievalDungeon/Meshes/Props/SM_Ball_And_Chain.SM_Ball_And_Chain
+[2019.12.17-09.33.52:842][391]LogStaticMesh: Building static mesh SM_Bed...
+[2019.12.17-09.33.52:873][391]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Bed.SM_Bed
+[2019.12.17-09.33.52:884][391]LogStaticMesh: Building static mesh SM_Candle_Holder...
+[2019.12.17-09.33.53:160][391]LogStaticMesh: Built static mesh [0.28s] /Game/MedievalDungeon/Meshes/Props/SM_Candle_Holder.SM_Candle_Holder
+[2019.12.17-09.33.53:244][391]LogStaticMesh: Building static mesh SM_CandleHolder_Bronze...
+[2019.12.17-09.33.53:276][391]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_CandleHolder_Bronze.SM_CandleHolder_Bronze
+[2019.12.17-09.33.53:285][391]LogStaticMesh: Building static mesh SM_CandleHolder_Iron...
+[2019.12.17-09.33.53:314][391]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_CandleHolder_Iron.SM_CandleHolder_Iron
+[2019.12.17-09.33.53:351][391]LogStaticMesh: Building static mesh SM_Cell_Door...
+[2019.12.17-09.33.53:385][391]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Door.SM_Cell_Door
+[2019.12.17-09.33.53:393][391]LogStaticMesh: Building static mesh SM_Cell_Front...
+[2019.12.17-09.33.53:469][391]LogTexture: Display: Building textures: T_CandleHolder_Bronze_A (AutoDXT, 4096X4096)
+[2019.12.17-09.33.53:469][391]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Front.SM_Cell_Front
+[2019.12.17-09.33.53:994][391]LogStaticMesh: Building static mesh SM_Chandelier...
+[2019.12.17-09.33.55:229][391]LogTexture: Display: Building textures: T_Skeleton_Dirty_N (BC5, 2048X2048)
+[2019.12.17-09.33.55:229][391]LogStaticMesh: Built static mesh [1.23s] /Game/MedievalDungeon/Meshes/Props/SM_Chandelier.SM_Chandelier
+[2019.12.17-09.33.55:250][391]LogStaticMesh: Building static mesh SM_Crypt_Doorway...
+[2019.12.17-09.33.55:319][391]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Doorway.SM_Crypt_Doorway
+[2019.12.17-09.33.55:365][391]LogStaticMesh: Building static mesh SM_DoorWay_Large_Door_Left...
+[2019.12.17-09.33.55:411][391]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay_Large_Door_Left.SM_DoorWay_Large_Door_Left
+[2019.12.17-09.33.55:452][391]LogStaticMesh: Building static mesh SM_DoorWay_Large_Door_Right...
+[2019.12.17-09.33.55:525][391]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay_Large_Door_Right.SM_DoorWay_Large_Door_Right
+[2019.12.17-09.33.55:537][391]LogStaticMesh: Building static mesh SM_Gibbet_Cage...
+[2019.12.17-09.33.55:640][391]LogStaticMesh: Built static mesh [0.10s] /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage.SM_Gibbet_Cage
+[2019.12.17-09.33.55:715][391]LogStaticMesh: Building static mesh SM_Ceiling...
+[2019.12.17-09.33.55:720][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling.SM_Ceiling
+[2019.12.17-09.33.55:726][391]LogStaticMesh: Building static mesh SM_Ceiling_Arch_A...
+[2019.12.17-09.33.55:737][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Arch_A.SM_Ceiling_Arch_A
+[2019.12.17-09.33.55:750][391]LogStaticMesh: Building static mesh SM_Ceiling_Half...
+[2019.12.17-09.33.55:772][391]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Half.SM_Ceiling_Half
+[2019.12.17-09.33.55:822][391]LogStaticMesh: Building static mesh SM_Coffin...
+[2019.12.17-09.33.55:844][391]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin
+[2019.12.17-09.33.55:858][391]LogStaticMesh: Building static mesh SM_Crypt_Ceiling_Arch_A...
+[2019.12.17-09.33.55:863][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2019.12.17-09.33.55:873][391]LogStaticMesh: Building static mesh SM_Crypt_Floor...
+[2019.12.17-09.33.55:873][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor.SM_Crypt_Floor
+[2019.12.17-09.33.55:886][391]LogStaticMesh: Building static mesh SM_Crypt_Floor_Concave...
+[2019.12.17-09.33.55:887][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave.SM_Crypt_Floor_Concave
+[2019.12.17-09.33.55:889][391]LogStaticMesh: Building static mesh SM_Crypt_Floor_Concave_End_A...
+[2019.12.17-09.33.55:889][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave_End_A.SM_Crypt_Floor_Concave_End_A
+[2019.12.17-09.33.55:892][391]LogStaticMesh: Building static mesh SM_Crypt_Floor_Concave_End_B...
+[2019.12.17-09.33.55:893][391]LogTexture: Display: Building textures: T_Skeleton_Dirty_C (AutoDXT, 2048X2048)
+[2019.12.17-09.33.55:893][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave_End_B.SM_Crypt_Floor_Concave_End_B
+[2019.12.17-09.33.56:028][391]LogStaticMesh: Building static mesh SM_Crypt_Wall...
+[2019.12.17-09.33.56:055][391]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall.SM_Crypt_Wall
+[2019.12.17-09.33.56:062][391]LogStaticMesh: Building static mesh SM_Crypt_Wall_Decorative_A...
+[2019.12.17-09.33.56:073][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_A.SM_Crypt_Wall_Decorative_A
+[2019.12.17-09.33.56:210][391]LogTexture: Display: Building textures: T_Skeleton_Dirty_A (AutoDXT, 2048X2048)
+[2019.12.17-09.33.56:210][391]LogStaticMesh: Building static mesh SM_Dungeon_Wall_Decorative_A...
+[2019.12.17-09.33.56:226][391]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall_Decorative_A.SM_Dungeon_Wall_Decorative_A
+[2019.12.17-09.33.56:229][391]LogStaticMesh: Building static mesh SM_Floor...
+[2019.12.17-09.33.56:242][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2019.12.17-09.33.56:490][391]LogStaticMesh: Building static mesh SM_Mausoleum_Ceiling...
+[2019.12.17-09.33.56:515][391]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Ceiling.SM_Mausoleum_Ceiling
+[2019.12.17-09.33.56:529][391]LogStaticMesh: Building static mesh SM_Pillar...
+[2019.12.17-09.33.56:575][391]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Pillar.SM_Pillar
+[2019.12.17-09.33.56:644][391]LogStaticMesh: Building static mesh SM_Bones_ClavicalLeft...
+[2019.12.17-09.33.56:646][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_ClavicalLeft.SM_Bones_ClavicalLeft
+[2019.12.17-09.33.56:724][391]LogStaticMesh: Building static mesh SM_Bones_FibulaRight...
+[2019.12.17-09.33.56:730][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FibulaRight.SM_Bones_FibulaRight
+[2019.12.17-09.33.56:754][391]LogStaticMesh: Building static mesh SM_Bones_FootLeft...
+[2019.12.17-09.33.56:773][391]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootLeft.SM_Bones_FootLeft
+[2019.12.17-09.33.56:819][391]LogStaticMesh: Building static mesh SM_Bones_Hips...
+[2019.12.17-09.33.56:869][391]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Hips.SM_Bones_Hips
+[2019.12.17-09.33.56:949][391]LogStaticMesh: Building static mesh SM_Bones_Leg...
+[2019.12.17-09.33.57:021][391]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Leg.SM_Bones_Leg
+[2019.12.17-09.33.57:059][391]LogStaticMesh: Building static mesh SM_Bones_RadiusLeft...
+[2019.12.17-09.33.57:064][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_RadiusLeft.SM_Bones_RadiusLeft
+[2019.12.17-09.33.57:066][391]LogStaticMesh: Building static mesh SM_Bones_RadiusRight...
+[2019.12.17-09.33.57:082][391]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_RadiusRight.SM_Bones_RadiusRight
+[2019.12.17-09.33.57:303][391]LogStaticMesh: Building static mesh SM_Bones_ScapulaLeft...
+[2019.12.17-09.33.57:315][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_ScapulaLeft.SM_Bones_ScapulaLeft
+[2019.12.17-09.33.57:354][391]LogStaticMesh: Building static mesh SM_Bones_Skull...
+[2019.12.17-09.33.57:383][391]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Skull.SM_Bones_Skull
+[2019.12.17-09.33.57:428][391]LogStaticMesh: Building static mesh SM_Bones_TibiaRight...
+[2019.12.17-09.33.57:437][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_TibiaRight.SM_Bones_TibiaRight
+[2019.12.17-09.33.57:453][391]LogStaticMesh: Building static mesh SM_Bones_UlnaLeft...
+[2019.12.17-09.33.57:456][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_UlnaLeft.SM_Bones_UlnaLeft
+[2019.12.17-09.33.57:463][391]LogStaticMesh: Building static mesh SM_Bones_UlnaRight...
+[2019.12.17-09.33.57:473][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_UlnaRight.SM_Bones_UlnaRight
+[2019.12.17-09.33.57:490][391]LogStaticMesh: Building static mesh SM_Cell_Side...
+[2019.12.17-09.33.57:517][391]LogTexture: Display: Building textures: T_Skeleton_Clean_N (BC5, 2048X2048)
+[2019.12.17-09.33.57:517][391]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Side.SM_Cell_Side
+[2019.12.17-09.33.57:557][391]LogStaticMesh: Building static mesh SM_Crypt_Ceiling...
+[2019.12.17-09.33.57:573][391]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling.SM_Crypt_Ceiling
+[2019.12.17-09.33.58:060][391]LogStaticMesh: Building static mesh SM_Decor_Chains_B...
+[2019.12.17-09.33.58:184][391]LogStaticMesh: Built static mesh [0.12s] /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_B.SM_Decor_Chains_B
+[2019.12.17-09.33.58:194][391]LogStaticMesh: Building static mesh SM_Decor_Ring...
+[2019.12.17-09.33.58:223][391]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Decor_Ring.SM_Decor_Ring
+[2019.12.17-09.33.58:240][391]LogStaticMesh: Building static mesh SM_Decorative_Arches...
+[2019.12.17-09.33.58:262][391]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Decorative_Arches.SM_Decorative_Arches
+[2019.12.17-09.33.58:286][391]LogStaticMesh: Building static mesh SM_Dirt_Mound_B...
+[2019.12.17-09.33.58:289][391]LogTexture: Display: Building textures: T_Skeleton_Clean_C (AutoDXT, 2048X2048)
+[2019.12.17-09.33.58:289][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_B.SM_Dirt_Mound_B
+[2019.12.17-09.33.58:306][391]LogStaticMesh: Building static mesh SM_Dirt_Mound_C...
+[2019.12.17-09.33.58:309][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_C.SM_Dirt_Mound_C
+[2019.12.17-09.33.58:348][391]LogStaticMesh: Building static mesh SM_Dirt_Mound_D...
+[2019.12.17-09.33.58:351][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_D.SM_Dirt_Mound_D
+[2019.12.17-09.33.58:383][391]LogStaticMesh: Building static mesh SM_Dungeon_Wall...
+[2019.12.17-09.33.58:384][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall.SM_Dungeon_Wall
+[2019.12.17-09.33.58:420][391]LogStaticMesh: Building static mesh SM_Edge_Stones...
+[2019.12.17-09.33.58:494][391]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2019.12.17-09.33.58:579][391]LogStaticMesh: Building static mesh SM_Gargoyle_Statue_On_Stand...
+[2019.12.17-09.33.58:731][391]LogStaticMesh: Built static mesh [0.15s] /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2019.12.17-09.33.58:814][391]LogStaticMesh: Building static mesh SM_Gibbet_Cage_Open...
+[2019.12.17-09.33.58:917][391]LogStaticMesh: Built static mesh [0.10s] /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Open.SM_Gibbet_Cage_Open
+[2019.12.17-09.33.59:054][391]LogStaticMesh: Building static mesh SM_Large_Window_Half...
+[2019.12.17-09.33.59:088][391]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Large_Window_Half.SM_Large_Window_Half
+[2019.12.17-09.33.59:103][391]LogStaticMesh: Building static mesh SM_Lock_Closed...
+[2019.12.17-09.33.59:122][391]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Lock_Closed.SM_Lock_Closed
+[2019.12.17-09.33.59:133][391]LogStaticMesh: Building static mesh SM_Lock_Key...
+[2019.12.17-09.33.59:145][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Lock_Key.SM_Lock_Key
+[2019.12.17-09.33.59:147][391]LogStaticMesh: Building static mesh SM_Lock_Open...
+[2019.12.17-09.33.59:180][391]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Lock_Open.SM_Lock_Open
+[2019.12.17-09.33.59:218][391]LogStaticMesh: Building static mesh SM_Mausoleum...
+[2019.12.17-09.33.59:278][391]LogStaticMesh: Built static mesh [0.06s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum.SM_Mausoleum
+[2019.12.17-09.33.59:289][391]LogStaticMesh: Building static mesh SM_Mausoleum_Lid_A...
+[2019.12.17-09.33.59:292][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_A.SM_Mausoleum_Lid_A
+[2019.12.17-09.33.59:309][391]LogStaticMesh: Building static mesh SM_Mausoleum_Lid_B...
+[2019.12.17-09.33.59:316][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_B.SM_Mausoleum_Lid_B
+[2019.12.17-09.34.00:230][391]LogTexture: Display: Building textures: T_Skeleton_Clean_A (AutoDXT, 2048X2048)
+[2019.12.17-09.34.00:230][391]LogStaticMesh: Building static mesh SM_Skeleton_02...
+[2019.12.17-09.34.00:717][391]LogStaticMesh: Built static mesh [0.49s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_02.SM_Skeleton_02
+[2019.12.17-09.34.01:231][391]LogStaticMesh: Building static mesh SM_Skeleton_03...
+[2019.12.17-09.34.01:992][391]LogTexture: Display: Building textures: T_Wood_C (AutoDXT, 4096X4096)
+[2019.12.17-09.34.01:992][391]LogTexture: Display: Building textures: T_Wood_N (BC5, 4096X4096)
+[2019.12.17-09.34.01:992][391]LogStaticMesh: Built static mesh [0.76s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2019.12.17-09.34.02:027][391]LogStaticMesh: Building static mesh SM_Skeleton_05...
+[2019.12.17-09.34.07:199][391]LogTexture: Display: Building textures: T_Wood_A (AutoDXT, 4096X4096)
+[2019.12.17-09.34.07:199][391]LogTexture: Display: Building textures: T_Table_N (BC5, 4096X4096)
+[2019.12.17-09.34.07:199][391]LogTexture: Display: Building textures: T_Table_C (AutoDXT, 4096X4096)
+[2019.12.17-09.34.07:199][391]LogTexture: Display: Building textures: T_Table_A (AutoDXT, 4096X4096)
+[2019.12.17-09.34.07:199][391]LogTexture: Display: Building textures: T_Stocks_C (AutoDXT, 4096X4096)
+[2019.12.17-09.34.07:199][391]LogTexture: Display: Building textures: T_Stocks_A (AutoDXT, 4096X4096)
+[2019.12.17-09.34.07:199][391]LogStaticMesh: Built static mesh [5.17s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05.SM_Skeleton_05
+[2019.12.17-09.34.07:220][391]LogStaticMesh: Building static mesh SM_Stairs_5...
+[2019.12.17-09.34.07:225][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_5.SM_Stairs_5
+[2019.12.17-09.34.07:475][391]LogStaticMesh: Building static mesh SM_Statue_Hooded...
+[2019.12.17-09.34.07:990][391]LogStaticMesh: Built static mesh [0.52s] /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded.SM_Statue_Hooded
+[2019.12.17-09.34.08:016][391]LogStaticMesh: Building static mesh SM_Statue_Stand...
+[2019.12.17-09.34.08:059][391]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Props/SM_Statue_Stand.SM_Statue_Stand
+[2019.12.17-09.34.08:062][391]LogStaticMesh: Building static mesh SM_Stocks_Game_Ready...
+[2019.12.17-09.34.08:161][391]LogStaticMesh: Built static mesh [0.10s] /Game/MedievalDungeon/Meshes/Props/SM_Stocks_Game_Ready.SM_Stocks_Game_Ready
+[2019.12.17-09.34.08:169][391]LogStaticMesh: Building static mesh SM_Stone_Coffin_Body...
+[2019.12.17-09.34.08:184][391]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Body.SM_Stone_Coffin_Body
+[2019.12.17-09.34.08:194][391]LogStaticMesh: Building static mesh SM_Stone_Coffin_Lid...
+[2019.12.17-09.34.08:201][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Lid.SM_Stone_Coffin_Lid
+[2019.12.17-09.34.08:212][391]LogStaticMesh: Building static mesh SM_Table...
+[2019.12.17-09.34.08:451][391]LogStaticMesh: Built static mesh [0.24s] /Game/MedievalDungeon/Meshes/Props/SM_Table.SM_Table
+[2019.12.17-09.34.08:475][391]LogStaticMesh: Building static mesh SM_Torture_Chair...
+[2019.12.17-09.34.08:515][391]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2019.12.17-09.34.08:521][391]LogStaticMesh: Building static mesh SM_Wall_Floor_Trim...
+[2019.12.17-09.34.08:522][391]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Wall_Floor_Trim.SM_Wall_Floor_Trim
+[2019.12.17-09.34.08:539][391]LogStaticMesh: Building static mesh SM_Wood_G...
+[2019.12.17-09.34.08:552][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Wood_G.SM_Wood_G
+[2019.12.17-09.34.08:588][391]LogStaticMesh: Building static mesh SM_Stairs_10...
+[2019.12.17-09.34.08:596][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_10.SM_Stairs_10
+[2019.12.17-09.34.08:613][391]LogStaticMesh: Building static mesh SM_Stone_Coffin...
+[2019.12.17-09.34.08:627][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin.SM_Stone_Coffin
+[2019.12.17-09.34.08:630][391]LogStaticMesh: Building static mesh Wall_Short...
+[2019.12.17-09.34.08:640][391]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/Wall_Short.Wall_Short
+[2019.12.17-09.34.08:750][391]LogTexture: Display: Building textures: T_Candles_N (BC5, 2048X2048)
+[2019.12.17-09.34.09:265][391]LogTexture: Display: Building textures: T_Candles_C (AutoDXT, 2048X2048)
+[2019.12.17-09.34.09:806][391]LogMaterial: Display: Missing cached shader map for material M_Candles_Master, compiling. 
+[2019.12.17-09.34.09:903][391]LogMaterial: Display: Missing cached shader map for material M_Candles_Master, compiling. 
+[2019.12.17-09.34.09:942][391]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2019.12.17-09.34.10:376][391]LogTexture: Display: Building textures: T_CandleHolder_Iron_N (BC5, 4096X4096)
+[2019.12.17-09.34.12:566][391]LogMaterial: Display: Missing cached shader map for material M_Skeleton_Dirty, compiling. 
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Statue_Stand_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Stone_Coffin_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Stone_Coffin_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Stone_Coffin_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Stocks_N (BC5, 4096X4096)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Statue_Stand_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Statue_Stand_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Statue_Hooded_R (BGRA8, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Statue_Hooded_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Statue_Hooded_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Pots_Texturing_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Pots_Texturing_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Pots_Texturing_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Gargoyle_Stand_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Gargoyle_Stand_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Gargoyle_Stand_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Gargoyle_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Gargoyle_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Gargoyle_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Dirt_Mound_Texturing_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Dirt_Mound_Texturing_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Dirt_Mound_Texturing_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:203][391]LogTexture: Display: Building textures: T_Bed_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Bed_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Bed_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Chains_Texturing_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Chains_Texturing_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Chains_Texturing_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Stone_Altar_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Stone_Altar_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Stone_Altar_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Stairs_10_Normal (BC5, 4096X4096)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Stairs_10_Compact (AutoDXT, 4096X4096)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Stairs_10_Albedo (AutoDXT, 4096X4096)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Small_Window_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Small_Window_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Small_Window_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_SplitLog_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_SplitLog_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_SplitLog_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Fire_Pit_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Fire_Pit_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Fire_Pit_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Cell_Side_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Cell_Side_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Cell_Side_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Mausoleum_Ceiling_N (BC5, 4096X4096)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Mausoleum_Ceiling_C (AutoDXT, 4096X4096)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Mausoleum_Part_B_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Mausoleum_Ceiling_A (AutoDXT, 4096X4096)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Mausoleum_Part_B_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Mausoleum_Part_B_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Mausoleum_Part_A_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Mausoleum_Part_A_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Mausoleum_Part_A_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Tiling_Plaster_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Tiling_Plaster_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Tiling_Plaster_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Crypt_Wall_Decorative_D_N (BC5, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Crypt_Wall_Decorative_D_C (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Crypt_Wall_Decorative_D_A (AutoDXT, 2048X2048)
+[2019.12.17-09.35.14:204][391]LogTexture: Display: Building textures: T_Dungeon_Wall_Decorative_A_A (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:546][391]LogTexture: Display: Building textures: T_Crypt_Wall_Decorative_C_Normal (BC5, 4096X4096)
+[2019.12.17-09.36.11:546][391]LogTexture: Display: Building textures: T_Crypt_Wall_Decorative_C_Compact (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:546][391]LogTexture: Display: Building textures: T_Crypt_Wall_Decorative_C_Albedo (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:546][391]LogTexture: Display: Building textures: T_Dungeon_Wall_Decorative_A_N (BC5, 4096X4096)
+[2019.12.17-09.36.11:546][391]LogTexture: Display: Building textures: T_Dungeon_Wall_Decorative_A_C (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:546][391]LogTexture: Display: Building textures: T_Ceiling_Arch_Normal (BC5, 4096X4096)
+[2019.12.17-09.36.11:546][391]LogTexture: Display: Building textures: T_Ceiling_Arch_Compact (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:546][391]LogTexture: Display: Building textures: T_Ceiling_Arch_Albedo (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:546][391]LogTexture: Display: Building textures: T_Torture_Chair_Normal (BC5, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Torture_Chair_C (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Torture_Chair_A (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Statue_Hooded_Metal_N (BC5, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Statue_Hooded_Metal_C (AutoDXT, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Statue_Hooded_Metal_A (AutoDXT, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Coffin_Compact (AutoDXT, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Coffin_Albedo (AutoDXT, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Crypt_Wall_Decorative_B_Normal (BC5, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Crypt_Wall_Decorative_B_Compact (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Crypt_Wall_Decorative_B_Albedo (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Coffin_Normal (BC5, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Torch_N (BC5, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Torch_C (AutoDXT, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Torch_A (AutoDXT, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Gibbet_Cage_Mount_Texturing_N (BC5, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Gibbet_Cage_Mount_Texturing_C (AutoDXT, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Gibbet_Cage_Mount_Texturing_A (AutoDXT, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Metal_N (BC5, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Metal_C (AutoDXT, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Metal_A (AutoDXT, 2048X2048)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_DoorWay_Large_Door_Left_Normal (BC5, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_DoorWay_Large_Door_Left_Compact (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_DoorWay_Large_Door_Left_Albedo (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Large_Window_Half_N (BC5, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Large_Window_Half_C (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_Large_Window_Half_A (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogTexture: Display: Building textures: T_DoorWay_Large_DoorRight_Compact (AutoDXT, 4096X4096)
+[2019.12.17-09.36.11:547][391]LogMaterial: Display: Missing cached shader map for material M_Torch_Flicker_Light_Function, compiling. 
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_DoorWay_Large_Door_Right_Normal (BC5, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_DoorWay_Large_Door_Right_Albedo (AutoDXT, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_DoorHardware_Albedo (AutoDXT, 2048X2048)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_DoorHardware_N (BC5, 2048X2048)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_DoorHardware_C (AutoDXT, 2048X2048)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_Chandelier_N (BC5, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_Chandelier_C (AutoDXT, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_Chandelier_A (AutoDXT, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_Cell_Door_Front_N (BC5, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_Cell_Door_Front_C (AutoDXT, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_Cell_Door_Front_A (AutoDXT, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_CandleStick_Iron_N (BC5, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_CandleStick_Iron_C (AutoDXT, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_CandleStick_Iron_A (AutoDXT, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_CandleStick_Bronze_N (BC5, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_CandleStick_Bronze_C (AutoDXT, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogTexture: Display: Building textures: T_CandleStick_Bronze_A (AutoDXT, 4096X4096)
+[2019.12.17-09.36.50:399][391]LogMaterial: Display: Missing cached shader map for material M_Flicker_Light_Function, compiling. 
+[2019.12.17-09.36.52:980][391]LogAIModule: Creating AISystem for world Demonstration
+[2019.12.17-09.36.53:126][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2019.12.17-09.38.07:598][391]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.17-09.38.07:602][391]LogUObjectGlobals: Force Deleting 2 Package(s):
+	Asset Name: /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+	Asset Name: /Game/MedievalDungeon/Maps/Demonstration_BuiltData.Demonstration_BuiltData
+[2019.12.17-09.38.16:563][391]LogSlate: Window 'Message' being destroyed
+[2019.12.17-09.38.16:791][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2019.12.17-09.38.16:811][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.12.17-09.38.16:828][391]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.12.17-09.38.16:857][392]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.17-09.38.16:857][392]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.17-09.38.16:857][392]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.17-09.38.16:857][392]LogUnrealEdMisc: Warning: Heartbeat event firing too frequently (0.000 sec). This should never happen. Something is wrong with the timer delegate!
+[2019.12.17-09.38.27:141][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.12.17-09.38.28:999][444]LogSlate: Window 'Delete Assets' being destroyed
+[2019.12.17-09.38.29:001][444]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2019.12.17-09.38.47:779][444]LogSlate: Window 'Message' being destroyed
+[2019.12.17-09.38.47:894][444]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2019.12.17-09.38.50:716][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Niveles/Nivel1" FILE="../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/Nivel1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.12.17-09.38.50:736][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2019.12.17-09.38.50:821][778]LogSavePackage: Moving '../../../../../../git/DVI/DVIFinal/PracticaFinal/Saved/Nivel1E56C972148EB71BA0F31E1BA42228092.tmp' to '../../../../../../git/DVI/DVIFinal/PracticaFinal/Content/Niveles/Nivel1.umap'
+[2019.12.17-09.38.52:481][972]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2019.12.17-09.38.54:609][972]LogSlate: Window 'Save Content' being destroyed
+[2019.12.17-09.38.54:622][972]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.17-09.38.54:622][972]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)
